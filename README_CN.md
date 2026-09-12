@@ -17,8 +17,6 @@
 
 InsideOut 是面向 AIO 2026 的原生 PySide6/VTK 计算机视觉原型。它可以拍摄实体画作或打开图片，在不强制要求纸张边界的情况下寻找视觉区域，再将 RGB 与线稿表示和本地 OpenCLIP 索引比较，最后打开可交互的多部件 3D 对象。竞赛识别范围严格限制为 **心脏、汽车和地球**。
 
-![InsideOut 心脏模型](screenshots%20prototype/3d%20heart%20reavel.png)
-
 ## 演示流程
 
 1. 使用 `start_insideout.bat` 启动原生窗口。

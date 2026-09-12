@@ -28,3 +28,10 @@ release/*.zip
 release/*.exe
 *.log
 *.partial
+
+# Reproducible validation output (keep manually collected inputs/templates tracked)
+evaluation/runtime*/
+evaluation/frame_evaluation/
+evaluation/*_results.csv
+evaluation/*_summary.json
+docs/evidence/

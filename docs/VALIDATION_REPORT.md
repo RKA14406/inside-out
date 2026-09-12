@@ -15,7 +15,7 @@ The active pipeline proposes at most three page/drawing/poster/fallback ROIs and
 
 ## Retained physical-capture regression
 
-The four images below came from real physical drawings. Car and Earth calibration crops are retained under `evaluation/competition_sketches/`; their original full camera frames remain under `evaluation/competition_frames/` and `docs/evidence/sketch_debug/`.
+The four images below came from real physical drawings. Car and Earth calibration crops are retained under `evaluation/competition_sketches/`; their original full camera frames remain under `evaluation/competition_frames/`.
 
 | Physical frame replayed through full ROI pipeline | Selected ROI | Top-1 | Score | Top-2 | Margin | CPU total | Result |
 |---|---|---|---:|---|---:|---:|---|
@@ -70,7 +70,7 @@ Result: exit code 0, no unhandled exceptions.
 - Earth model load: average 8.20 ms (7.37–9.21, n=3); renderer average 62.08 FPS (60.49–62.57, n=14).
 - Single-ROI CPU retrieval smoke: average 225.18 ms (197.13–259.85, n=22).
 
-Evidence is in `evaluation/runtime/`, `evaluation/frame_evaluation/`, and `docs/evidence/`.
+The raw generated validation output was removed from the public repository after the measured results were recorded here. The validation commands reproduce it under `evaluation/runtime/` and `evaluation/frame_evaluation/`; retained physical inputs remain under `evaluation/competition_frames/`.
 
 ## Active index
 

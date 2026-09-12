@@ -26,7 +26,6 @@ New-Item -ItemType Directory -Path (Split-Path -Parent $Output) -Force | Out-Nul
 $RootFiles = @(
     '.gitattributes',
     '.gitignore',
-    'AGENTS.md',
     'ATTRIBUTION.md',
     'README.md',
     'README_CN.md',
@@ -42,7 +41,6 @@ $Directories = @(
     'desktop',
     'docs',
     'scripts',
-    'screenshots prototype',
     'evaluation\competition_sketches',
     'evaluation\competition_frames',
     'assets\desktop\sources'

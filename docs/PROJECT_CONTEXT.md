@@ -30,10 +30,10 @@ No fake scores, filename classification, fabricated anatomy, chatbot, tutor, qui
 - Native Python 3.12 / PySide6 / VTK; OpenCV / MediaPipe / PyTorch / OpenCLIP.
 - Seven library objects. Competition retrieval is restricted to Heart, Car, and Earth with 237 render/sketch/prototype reference vectors.
 - Actual anatomy parts in heart/lungs; CarConcept is grouped into 11 source-supported assemblies; Earth uses a documented four-layer procedural fallback; simpler source/geometry groups remain for camera, lantern, and bottle.
-- PartField is an optional offline adapter using a separate upstream environment; it cannot invent missing internals. DepthART is not a runtime dependency.
+- PartField and DepthART are future-work investigations only; neither is included in or required by the competition runtime.
 - Native entry point: `insideout.py`; double-click `start_insideout.bat`.
 - The native window has an **Input** selector for Camera 0–5. It can switch devices safely while running; indices follow OpenCV rather than guessed device names.
-- Runtime manifest: `assets/desktop/manifest.json`. Old `assets/model_manifest.json`, `frontend/`, and `backend/` are legacy and unused by this native build.
+- Runtime manifest: `assets/desktop/manifest.json`. The unused legacy web frontend/backend and old browser manifest were removed from the competition repository.
 - Runtime validation records evidence in `docs/VALIDATION_REPORT.md`, `docs/COMPETITION_BUILD_STATUS.md`, and `evaluation/`. Four retained physical frames pass the final code, but they are calibration/regression inputs and not a general accuracy dataset.
 - Latest scoped native CPU validation passed startup, all 29 Heart/Car/Earth runtime parts, mouse/file/CPU fallbacks, and failure handling with no unhandled exceptions. Live Car and one live Earth capture passed before the final index rebuild; final live recapture and repeated physical hand trials remain pending.
 - Preserve provenance: models come from external publishers; application implementation is AI-assisted. Do not label these as entirely original student-authored work.

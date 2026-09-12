@@ -17,8 +17,6 @@
 
 InsideOut is a native PySide6/VTK computer-vision prototype for AIO 2026. It captures a physical drawing or opens an image, proposes likely visual regions without requiring paper, compares RGB and sketch representations with a local OpenCLIP index, and opens an interactive multipart 3D object. The competition recognizer is intentionally closed to three classes: **Heart, Car, and Earth**.
 
-![InsideOut heart model](screenshots%20prototype/3d%20heart%20reavel.png)
-
 ## Demo
 
 1. Start the native window with `start_insideout.bat`.

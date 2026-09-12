@@ -46,7 +46,7 @@
 
 # Future Work — NOT CURRENT MVP
 
-PartField: "Optional experimental adapter implemented but not validated or required by the competition MVP."
+PartField: "Investigated as potential future work; its experimental adapter was removed from the cleaned competition repository and is not required by the MVP."
 
 DepthART: "Investigated as potential future work; not integrated into the current prototype."
 

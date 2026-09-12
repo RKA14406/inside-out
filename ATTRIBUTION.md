@@ -36,7 +36,7 @@ Package distributions retain their upstream licenses and notices. The applicatio
 
 ## Optional research, not bundled/runtime dependencies
 
-[NVIDIA PartField](https://github.com/nv-tlabs/PartField) and [DepthART](https://github.com/bulatko/DepthART) were investigated. Their trained weights and separate environments are not included in this desktop cache. The local PartField adapter calls a separately installed official checkout and imports its outputs; it does not sublicense the upstream project or any user's input models. Preserve and review the relevant terms if adding these later.
+[NVIDIA PartField](https://github.com/nv-tlabs/PartField) and [DepthART](https://github.com/bulatko/DepthART) were investigated as possible future work. Neither project, its weights, nor an integration adapter is included in the competition repository or runtime. Preserve and review the relevant terms if adding either later.
 
 ## Project provenance
 
