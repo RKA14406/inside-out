@@ -1,0 +1,83 @@
+{
+  "accepted": true,
+  "margin": 0.07992064952850342,
+  "device": "cuda",
+  "candidates": [
+    {
+      "id": "toy_car",
+      "name": "Car",
+      "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept",
+      "license": "CC-BY-4.0",
+      "semanticParts": true,
+      "partCount": 11,
+      "score": 0.8513581156730652,
+      "cosine": 0.8710425496101379,
+      "bestCosine": 0.8710425496101379,
+      "shape": 0.8568180799484253,
+      "bankScores": {
+        "render": 0.582557737827301,
+        "sketch": 0.8513581156730652
+      },
+      "view": "assets/desktop/competition_previews/toy_car/11-line.png",
+      "angle": "az 330, el -15",
+      "referenceKind": "line",
+      "referenceBank": "sketch",
+      "queryVariant": "line",
+      "roiIndex": 0,
+      "roiType": "drawing-region"
+    },
+    {
+      "id": "earth",
+      "name": "Earth",
+      "source": "Local procedural fallback",
+      "license": "CC0-1.0",
+      "semanticParts": true,
+      "partCount": 4,
+      "score": 0.7714374661445618,
+      "cosine": 0.8190447092056274,
+      "bestCosine": 0.8190447092056274,
+      "shape": 0.598924458026886,
+      "bankScores": {
+        "render": 0.5037139058113098,
+        "sketch": 0.7714374661445618
+      },
+      "view": "assets/desktop/competition_previews/earth/02-line.png",
+      "angle": "az 60, el 15",
+      "referenceKind": "line",
+      "referenceBank": "sketch",
+      "queryVariant": "line",
+      "roiIndex": 0,
+      "roiType": "drawing-region"
+    },
+    {
+      "id": "human_heart",
+      "name": "Human heart",
+      "source": "https://doi.org/10.48539/HBM373.VSTV.568",
+      "license": "CC-BY-4.0",
+      "semanticParts": true,
+      "partCount": 14,
+      "score": 0.7493443489074707,
+      "cosine": 0.824597954750061,
+      "bestCosine": 0.824597954750061,
+      "shape": 0.6519205570220947,
+      "bankScores": {
+        "render": 0.48930010199546814,
+        "sketch": 0.7493443489074707,
+        "prototype": 0.7119857668876648
+      },
+      "view": "assets/desktop/competition_previews/human_heart/06-silhouette.png",
+      "angle": "az 180, el 15",
+      "referenceKind": "silhouette",
+      "referenceBank": "sketch",
+      "queryVariant": "line",
+      "roiIndex": 0,
+      "roiType": "drawing-region"
+    }
+  ],
+  "timings": {
+    "preprocessingMs": 240.8794999937527,
+    "embeddingMs": 247.62709997594357,
+    "searchMs": 3.9370000013150275,
+    "totalMs": 492.44809997617267
+  }
+}

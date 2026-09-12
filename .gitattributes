@@ -1,0 +1,21 @@
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.csv text eol=lf
+*.ps1 text eol=crlf
+*.bat text eol=crlf
+*.svg text eol=lf
+*.glb binary
+*.npz binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.pdf binary
+*.docx binary
+*.zip binary
+
+# Preserve downloaded upstream notices verbatim; do not normalize or rewrite them.
+assets/desktop/sources/**/*.md -text
+assets/desktop/sources/**/*.txt -text
+assets/desktop/sources/**/*.html -text
+data/weights/OPENCLIP_MODEL_CARD.md -text

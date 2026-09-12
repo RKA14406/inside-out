@@ -1,0 +1,74 @@
+{
+  "scene_frame_ms / capture": {
+    "count": 445,
+    "average": 1.5376105621389082,
+    "minimum": 0.5110999918542802,
+    "maximum": 47.03640000661835
+  },
+  "startup_first_frame_ms / ": {
+    "count": 1,
+    "average": 2452.816900011385,
+    "minimum": 2452.816900011385,
+    "maximum": 2452.816900011385
+  },
+  "renderer_fps / capture": {
+    "count": 8,
+    "average": 51.86217146328547,
+    "minimum": 2.1307640458774437,
+    "maximum": 62.50202759463459
+  },
+  "encoder_load_ms / cpu": {
+    "count": 1,
+    "average": 7208.096199989086,
+    "minimum": 7208.096199989086,
+    "maximum": 7208.096199989086
+  },
+  "startup_retrieval_ready_ms / ViT-B-32/laion2b_s34b_b79k": {
+    "count": 1,
+    "average": 9581.413400010206,
+    "minimum": 9581.413400010206,
+    "maximum": 9581.413400010206
+  },
+  "retrieval_preprocessingMs / cpu": {
+    "count": 22,
+    "average": 63.15028181945143,
+    "minimum": 55.655900010606274,
+    "maximum": 82.50129999942146
+  },
+  "retrieval_embeddingMs / cpu": {
+    "count": 22,
+    "average": 169.73178182061847,
+    "minimum": 146.0259000014048,
+    "maximum": 208.77359999576584
+  },
+  "retrieval_searchMs / cpu": {
+    "count": 22,
+    "average": 0.984377274025147,
+    "minimum": 0.7587000145576894,
+    "maximum": 1.3755000254604965
+  },
+  "retrieval_totalMs / cpu": {
+    "count": 22,
+    "average": 233.86902272680098,
+    "minimum": 207.85030000843108,
+    "maximum": 272.4467999942135
+  },
+  "model_load_ms / human_heart": {
+    "count": 1,
+    "average": 47.45780001394451,
+    "minimum": 47.45780001394451,
+    "maximum": 47.45780001394451
+  },
+  "scene_frame_ms / human_heart": {
+    "count": 166,
+    "average": 1.7560614458445167,
+    "minimum": 1.1750000121537596,
+    "maximum": 17.156200017780066
+  },
+  "renderer_fps / human_heart": {
+    "count": 2,
+    "average": 60.82122730784258,
+    "minimum": 59.149559462764024,
+    "maximum": 62.49289515292112
+  }
+}

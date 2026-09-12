@@ -1,0 +1,34 @@
+{
+  "id": "toy_car",
+  "name": "Car",
+  "category": "Mechanics",
+  "author": "Eric Chadwick / Darmstadt Graphics Group GmbH; Khronos Group",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept",
+  "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/CarConcept/glTF-Binary/CarConcept.glb",
+  "licenseText": "https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/CarConcept/LICENSE.md",
+  "semanticParts": true,
+  "file": "assets/desktop/sources/toy_car/toy_car.glb",
+  "sourceFile": "assets/desktop/sources/toy_car/CarConcept-original.glb",
+  "sha256": "c272098089d78c5cd9fd9f24ff50ee8acf8d932c55f2d55fc10adb6c8998966b",
+  "bytes": 11778688,
+  "modifications": "Grouped 109 imported geometry instances into meaningful runtime assemblies; textures omitted and logo/emblem nodes excluded so Khronos/DGG marks are not displayed.",
+  "runtimeGroups": [
+    "Body",
+    "Hood",
+    "Left Door",
+    "Right Door",
+    "Rear Hatch",
+    "Interior",
+    "Mechanical",
+    "Front Left Wheel",
+    "Front Right Wheel",
+    "Rear Left Wheel",
+    "Rear Right Wheel"
+  ],
+  "excludedNodes": [
+    "InteriorSteeringEmblem"
+  ],
+  "downloadDate": "2026-09-11"
+}

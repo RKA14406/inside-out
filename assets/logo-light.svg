@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="520" height="120" viewBox="0 0 520 120" role="img" aria-labelledby="title">
+  <title id="title">InsideOut</title>
+  <rect width="520" height="120" rx="24" fill="#f8fafc"/>
+  <g transform="translate(28 20)">
+    <circle cx="40" cy="40" r="34" fill="#14202b"/>
+    <path d="M21 38c0-14 11-23 19-14 8-9 19 0 19 14 0 12-19 27-19 27S21 50 21 38Z" fill="#efc57b"/>
+    <path d="M40 17v48" stroke="#f8fafc" stroke-width="3" stroke-dasharray="5 5" opacity=".75"/>
+  </g>
+  <text x="116" y="73" font-family="Segoe UI, Arial, sans-serif" font-size="48" font-weight="700" letter-spacing="5" fill="#14202b">INSIDEOUT</text>
+</svg>

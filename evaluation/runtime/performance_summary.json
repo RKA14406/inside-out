@@ -1,0 +1,134 @@
+{
+  "scene_frame_ms / capture": {
+    "count": 512,
+    "average": 1.9387966806903023,
+    "minimum": 0.43590000132098794,
+    "maximum": 34.47280000546016
+  },
+  "startup_first_frame_ms / ": {
+    "count": 1,
+    "average": 2230.534100002842,
+    "minimum": 2230.534100002842,
+    "maximum": 2230.534100002842
+  },
+  "renderer_fps / capture": {
+    "count": 9,
+    "average": 52.69828021046872,
+    "minimum": 0.8608041399881922,
+    "maximum": 62.39973328603279
+  },
+  "encoder_load_ms / cpu": {
+    "count": 1,
+    "average": 8321.079399989685,
+    "minimum": 8321.079399989685,
+    "maximum": 8321.079399989685
+  },
+  "startup_retrieval_ready_ms / ViT-B-32/laion2b_s34b_b79k": {
+    "count": 1,
+    "average": 10492.012300004717,
+    "minimum": 10492.012300004717,
+    "maximum": 10492.012300004717
+  },
+  "model_load_ms / human_heart": {
+    "count": 6,
+    "average": 51.34048333275132,
+    "minimum": 41.306200000690296,
+    "maximum": 72.34700000844896
+  },
+  "scene_frame_ms / human_heart": {
+    "count": 1543,
+    "average": 1.8326808812476367,
+    "minimum": 0.7551000162493438,
+    "maximum": 16.22780002071522
+  },
+  "renderer_fps / human_heart": {
+    "count": 25,
+    "average": 60.76706431062386,
+    "minimum": 34.63718244181925,
+    "maximum": 63.17319553378098
+  },
+  "model_load_ms / toy_car": {
+    "count": 3,
+    "average": 53.58053332505127,
+    "minimum": 47.909699991578236,
+    "maximum": 57.67099998774938
+  },
+  "scene_frame_ms / toy_car": {
+    "count": 1043,
+    "average": 1.3530682647109213,
+    "minimum": 0.9275999909732491,
+    "maximum": 13.550300005590543
+  },
+  "renderer_fps / toy_car": {
+    "count": 16,
+    "average": 61.635485845806905,
+    "minimum": 54.54542930225123,
+    "maximum": 62.91056005683638
+  },
+  "model_load_ms / earth": {
+    "count": 3,
+    "average": 8.199933334253728,
+    "minimum": 7.368599995970726,
+    "maximum": 9.214599995175377
+  },
+  "scene_frame_ms / earth": {
+    "count": 848,
+    "average": 1.0912073120603312,
+    "minimum": 0.6227999983821064,
+    "maximum": 2.7012000209651887
+  },
+  "renderer_fps / earth": {
+    "count": 14,
+    "average": 62.0770917581212,
+    "minimum": 60.48862313142563,
+    "maximum": 62.56746485744088
+  },
+  "retrieval_preprocessingMs / shape-only": {
+    "count": 1,
+    "average": 57.28000000817701,
+    "minimum": 57.28000000817701,
+    "maximum": 57.28000000817701
+  },
+  "retrieval_embeddingMs / shape-only": {
+    "count": 1,
+    "average": 0.0,
+    "minimum": 0.0,
+    "maximum": 0.0
+  },
+  "retrieval_searchMs / shape-only": {
+    "count": 1,
+    "average": 0.9911999804899096,
+    "minimum": 0.9911999804899096,
+    "maximum": 0.9911999804899096
+  },
+  "retrieval_totalMs / shape-only": {
+    "count": 1,
+    "average": 58.53569999453612,
+    "minimum": 58.53569999453612,
+    "maximum": 58.53569999453612
+  },
+  "retrieval_preprocessingMs / cpu": {
+    "count": 22,
+    "average": 60.548322726390325,
+    "minimum": 53.50780001026578,
+    "maximum": 76.43199997255579
+  },
+  "retrieval_embeddingMs / cpu": {
+    "count": 22,
+    "average": 163.73596817720681,
+    "minimum": 138.04359998903237,
+    "maximum": 196.04889999027364
+  },
+  "retrieval_searchMs / cpu": {
+    "count": 22,
+    "average": 0.8892999996367673,
+    "minimum": 0.7206999871414155,
+    "maximum": 1.262500009033829
+  },
+  "retrieval_totalMs / cpu": {
+    "count": 22,
+    "average": 225.1757772702893,
+    "minimum": 197.12799999979325,
+    "maximum": 259.8500999738462
+  }
+}

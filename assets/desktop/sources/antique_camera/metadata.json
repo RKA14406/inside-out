@@ -1,0 +1,17 @@
+{
+  "id": "antique_camera",
+  "name": "Antique camera",
+  "category": "Optics",
+  "author": "Maximillan Kamps / UX3D",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/AntiqueCamera",
+  "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+  "licenseText": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/AntiqueCamera/README.md",
+  "semanticParts": false,
+  "file": "assets/desktop/sources/antique_camera/antique_camera.glb",
+  "downloadDate": "2026-09-11",
+  "sha256": "ae89695479ad997f09ebea8060a5ad01312ad8fe7ffb92f73b4e895109feecd2",
+  "bytes": 17540348,
+  "modifications": "Original GLB retained. Runtime cache normalizes scale and preserves mesh transforms."
+}

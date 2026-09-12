@@ -1,0 +1,17 @@
+{
+  "id": "human_lungs",
+  "name": "Human lungs",
+  "category": "Anatomy",
+  "author": "Kristen Browne; Heidi Schlehlein / HuBMAP HRA",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "source": "https://doi.org/10.48539/HBM787.FWXN.723",
+  "url": "https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v1.2/models/VH_M_Lung.glb",
+  "licenseText": "https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v1.2/markdown/ref-organs/lung-male.md",
+  "semanticParts": true,
+  "file": "assets/desktop/sources/human_lungs/human_lungs.glb",
+  "downloadDate": "2026-09-11",
+  "sha256": "e64351b72b0bc5289a4dc32ba2b402b9c974f9ec0b1972bf06b436864f917913",
+  "bytes": 6355840,
+  "modifications": "Original GLB retained. Runtime cache normalizes scale and preserves mesh transforms."
+}

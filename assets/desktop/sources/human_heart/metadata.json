@@ -1,0 +1,17 @@
+{
+  "id": "human_heart",
+  "name": "Human heart",
+  "category": "Anatomy",
+  "author": "Kristen Browne; Heidi Schlehlein / HuBMAP HRA",
+  "license": "CC-BY-4.0",
+  "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+  "source": "https://doi.org/10.48539/HBM373.VSTV.568",
+  "url": "https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v1.2/models/VH_M_Heart.glb",
+  "licenseText": "https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v1.2/markdown/ref-organs/heart-male.md",
+  "semanticParts": true,
+  "file": "assets/desktop/sources/human_heart/human_heart.glb",
+  "downloadDate": "2026-09-11",
+  "sha256": "b1237e7e765178e9357fd2ea7ccf19d55d0bf9ca55e187886635febe28244c70",
+  "bytes": 4071500,
+  "modifications": "Original GLB retained. Runtime cache normalizes scale and preserves mesh transforms."
+}

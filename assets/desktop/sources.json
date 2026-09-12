@@ -1,0 +1,166 @@
+[
+  {
+    "id": "human_heart",
+    "name": "Human heart",
+    "category": "Anatomy",
+    "author": "Kristen Browne; Heidi Schlehlein / HuBMAP HRA",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://doi.org/10.48539/HBM373.VSTV.568",
+    "url": "https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v1.2/models/VH_M_Heart.glb",
+    "licenseText": "https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v1.2/markdown/ref-organs/heart-male.md",
+    "semanticParts": true,
+    "file": "assets/desktop/sources/human_heart/human_heart.glb",
+    "downloadDate": "2026-09-11",
+    "sha256": "b1237e7e765178e9357fd2ea7ccf19d55d0bf9ca55e187886635febe28244c70",
+    "bytes": 4071500,
+    "modifications": "Original GLB retained. Runtime cache normalizes scale and preserves mesh transforms."
+  },
+  {
+    "id": "human_lungs",
+    "name": "Human lungs",
+    "category": "Anatomy",
+    "author": "Kristen Browne; Heidi Schlehlein / HuBMAP HRA",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://doi.org/10.48539/HBM787.FWXN.723",
+    "url": "https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v1.2/models/VH_M_Lung.glb",
+    "licenseText": "https://raw.githubusercontent.com/hubmapconsortium/ccf-releases/main/v1.2/markdown/ref-organs/lung-male.md",
+    "semanticParts": true,
+    "file": "assets/desktop/sources/human_lungs/human_lungs.glb",
+    "downloadDate": "2026-09-11",
+    "sha256": "e64351b72b0bc5289a4dc32ba2b402b9c974f9ec0b1972bf06b436864f917913",
+    "bytes": 6355840,
+    "modifications": "Original GLB retained. Runtime cache normalizes scale and preserves mesh transforms."
+  },
+  {
+    "id": "antique_camera",
+    "name": "Antique camera",
+    "category": "Optics",
+    "author": "Maximillan Kamps / UX3D",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/AntiqueCamera",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/AntiqueCamera/glTF-Binary/AntiqueCamera.glb",
+    "licenseText": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/AntiqueCamera/README.md",
+    "semanticParts": false,
+    "file": "assets/desktop/sources/antique_camera/antique_camera.glb",
+    "downloadDate": "2026-09-11",
+    "sha256": "ae89695479ad997f09ebea8060a5ad01312ad8fe7ffb92f73b4e895109feecd2",
+    "bytes": 17540348,
+    "modifications": "Original GLB retained. Runtime cache normalizes scale and preserves mesh transforms."
+  },
+  {
+    "id": "lantern",
+    "name": "Lantern",
+    "category": "Lighting",
+    "author": "Microsoft; sbtron",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/Lantern",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/Lantern/glTF-Binary/Lantern.glb",
+    "licenseText": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/Lantern/README.md",
+    "semanticParts": false,
+    "file": "assets/desktop/sources/lantern/lantern.glb",
+    "downloadDate": "2026-09-11",
+    "sha256": "a79458c4b02d695187a952f23a63b8bf278e7bc3d316a3c2a314f2d6974181f1",
+    "bytes": 9564264,
+    "modifications": "Original GLB retained. Runtime cache normalizes scale and preserves mesh transforms."
+  },
+  {
+    "id": "water_bottle",
+    "name": "Water bottle",
+    "category": "Everyday objects",
+    "author": "Microsoft",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/WaterBottle",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/WaterBottle/glTF-Binary/WaterBottle.glb",
+    "licenseText": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/WaterBottle/README.md",
+    "semanticParts": false,
+    "file": "assets/desktop/sources/water_bottle/water_bottle.glb",
+    "downloadDate": "2026-09-11",
+    "sha256": "b337e526fd6a162013c2984aeec163f5fbb4f717252724dfc3f3458bd51df94b",
+    "bytes": 8966700,
+    "modifications": "Original GLB retained. Runtime cache normalizes scale and preserves mesh transforms."
+  },
+  {
+    "id": "toy_car",
+    "name": "Car",
+    "category": "Mechanics",
+    "author": "Eric Chadwick / Darmstadt Graphics Group GmbH; Khronos Group",
+    "license": "CC-BY-4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+    "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept",
+    "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/CarConcept/glTF-Binary/CarConcept.glb",
+    "licenseText": "https://github.com/KhronosGroup/glTF-Sample-Assets/blob/main/Models/CarConcept/LICENSE.md",
+    "semanticParts": true,
+    "file": "assets/desktop/sources/toy_car/toy_car.glb",
+    "sourceFile": "assets/desktop/sources/toy_car/CarConcept-original.glb",
+    "sha256": "c272098089d78c5cd9fd9f24ff50ee8acf8d932c55f2d55fc10adb6c8998966b",
+    "bytes": 11778688,
+    "modifications": "Grouped 109 imported geometry instances into meaningful runtime assemblies; textures omitted and logo/emblem nodes excluded so Khronos/DGG marks are not displayed.",
+    "runtimeGroups": [
+      "Body",
+      "Hood",
+      "Left Door",
+      "Right Door",
+      "Rear Hatch",
+      "Interior",
+      "Mechanical",
+      "Front Left Wheel",
+      "Front Right Wheel",
+      "Rear Left Wheel",
+      "Rear Right Wheel"
+    ],
+    "excludedNodes": [
+      "InteriorSteeringEmblem"
+    ]
+  },
+  {
+    "id": "earth",
+    "name": "Earth",
+    "category": "Planet / geology",
+    "author": "InsideOut project",
+    "license": "CC0-1.0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source": "Local procedural fallback",
+    "requestedPrimarySource": "https://sketchfab.com/3d-models/earth-core-v1-4c3ea4018a7442c4b221d91b8f373a55",
+    "semanticParts": true,
+    "file": "assets/desktop/sources/earth/earth.glb",
+    "sha256": "b989c5006f156a2b790aebfc1c472066d7df19cc2aad576ee264da6339a124db",
+    "bytes": 122068,
+    "modifications": "Four lightweight cutaway layers with a stylized blue/green surface. Used because official Sketchfab download required an unavailable logged-in account.",
+    "layerNames": [
+      "Surface / Crust",
+      "Mantle",
+      "Outer Core",
+      "Inner Core"
+    ],
+    "explode": {
+      "mode": "hierarchical",
+      "axisOverrides": {
+        "Surface / Crust": [
+          1,
+          0,
+          0
+        ],
+        "Mantle": [
+          0.35,
+          0.55,
+          0
+        ],
+        "Outer Core": [
+          -0.35,
+          -0.55,
+          0
+        ],
+        "Inner Core": [
+          -1,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]

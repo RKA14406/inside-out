@@ -1,0 +1,83 @@
+{
+  "accepted": false,
+  "margin": 0.01348257064819336,
+  "device": "cuda",
+  "candidates": [
+    {
+      "id": "toy_car",
+      "name": "Car",
+      "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/CarConcept",
+      "license": "CC-BY-4.0",
+      "semanticParts": true,
+      "partCount": 11,
+      "score": 0.7743658423423767,
+      "cosine": 0.8070847392082214,
+      "bestCosine": 0.8128610849380493,
+      "shape": 0.6527191400527954,
+      "bankScores": {
+        "render": 0.4731515944004059,
+        "sketch": 0.7743658423423767
+      },
+      "view": "assets/desktop/competition_previews/toy_car/07-silhouette.png",
+      "angle": "az 210, el -15",
+      "referenceKind": "silhouette",
+      "referenceBank": "sketch",
+      "queryVariant": "line",
+      "roiIndex": 1,
+      "roiType": "center-fallback"
+    },
+    {
+      "id": "earth",
+      "name": "Earth",
+      "source": "Local procedural fallback",
+      "license": "CC0-1.0",
+      "semanticParts": true,
+      "partCount": 4,
+      "score": 0.7608832716941833,
+      "cosine": 0.8226165771484375,
+      "bestCosine": 0.8235780000686646,
+      "shape": 0.4316169321537018,
+      "bankScores": {
+        "render": 0.5506198406219482,
+        "sketch": 0.7608832716941833
+      },
+      "view": "assets/desktop/competition_previews/earth/05-line.png",
+      "angle": "az 150, el -15",
+      "referenceKind": "line",
+      "referenceBank": "sketch",
+      "queryVariant": "line",
+      "roiIndex": 1,
+      "roiType": "center-fallback"
+    },
+    {
+      "id": "human_heart",
+      "name": "Human heart",
+      "source": "https://doi.org/10.48539/HBM373.VSTV.568",
+      "license": "CC-BY-4.0",
+      "semanticParts": true,
+      "partCount": 14,
+      "score": 0.7371483445167542,
+      "cosine": 0.8181478381156921,
+      "bestCosine": 0.8181478381156921,
+      "shape": 0.4705691635608673,
+      "bankScores": {
+        "render": 0.5283120274543762,
+        "sketch": 0.7330794334411621,
+        "prototype": 0.7371483445167542
+      },
+      "view": "assets/desktop/competition_previews/human_heart/prototype-00-m5-line.png",
+      "angle": "rotation -5",
+      "referenceKind": "real sketch line",
+      "referenceBank": "prototype",
+      "queryVariant": "line",
+      "roiIndex": 1,
+      "roiType": "center-fallback"
+    }
+  ],
+  "timings": {
+    "preprocessingMs": 264.99100000364706,
+    "embeddingMs": 243.43819997739047,
+    "searchMs": 6.2000000034458935,
+    "totalMs": 514.6419999946374
+  }
+}

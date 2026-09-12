@@ -1,0 +1,17 @@
+{
+  "id": "water_bottle",
+  "name": "Water bottle",
+  "category": "Everyday objects",
+  "author": "Microsoft",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "https://github.com/KhronosGroup/glTF-Sample-Assets/tree/main/Models/WaterBottle",
+  "url": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/WaterBottle/glTF-Binary/WaterBottle.glb",
+  "licenseText": "https://raw.githubusercontent.com/KhronosGroup/glTF-Sample-Assets/main/Models/WaterBottle/README.md",
+  "semanticParts": false,
+  "file": "assets/desktop/sources/water_bottle/water_bottle.glb",
+  "downloadDate": "2026-09-11",
+  "sha256": "b337e526fd6a162013c2984aeec163f5fbb4f717252724dfc3f3458bd51df94b",
+  "bytes": 8966700,
+  "modifications": "Original GLB retained. Runtime cache normalizes scale and preserves mesh transforms."
+}

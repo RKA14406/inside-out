@@ -1,0 +1,47 @@
+{
+  "id": "earth",
+  "name": "Earth",
+  "category": "Planet / geology",
+  "author": "InsideOut project",
+  "license": "CC0-1.0",
+  "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+  "source": "Local procedural fallback",
+  "requestedPrimarySource": "https://sketchfab.com/3d-models/earth-core-v1-4c3ea4018a7442c4b221d91b8f373a55",
+  "semanticParts": true,
+  "file": "assets/desktop/sources/earth/earth.glb",
+  "sha256": "b989c5006f156a2b790aebfc1c472066d7df19cc2aad576ee264da6339a124db",
+  "bytes": 122068,
+  "modifications": "Four lightweight cutaway layers with a stylized blue/green surface. Used because official Sketchfab download required an unavailable logged-in account.",
+  "layerNames": [
+    "Surface / Crust",
+    "Mantle",
+    "Outer Core",
+    "Inner Core"
+  ],
+  "explode": {
+    "mode": "hierarchical",
+    "axisOverrides": {
+      "Surface / Crust": [
+        1,
+        0,
+        0
+      ],
+      "Mantle": [
+        0.35,
+        0.55,
+        0
+      ],
+      "Outer Core": [
+        -0.35,
+        -0.55,
+        0
+      ],
+      "Inner Core": [
+        -1,
+        0,
+        0
+      ]
+    }
+  },
+  "downloadDate": "2026-09-11"
+}
